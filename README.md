@@ -120,5 +120,5 @@ For running the application:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
+- Email: 8264ashishverma@@gmail.com
 - Linkedin: https://www.linkedin.com/in/aayush12/
